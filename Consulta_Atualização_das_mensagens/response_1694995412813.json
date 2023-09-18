@@ -1,0 +1,35 @@
+{
+  "id": 2606,
+  "name": "Maria",
+  "account": {
+    "id": 2750,
+    "number": "000022222-2",
+    "agency": "0002",
+    "balance": 0,
+    "limit": 2000
+  },
+  "card": {
+    "id": 2529,
+    "number": "***2 2222 2222 2222",
+    "limit": 2000
+  },
+  "features": [
+    {
+      "id": 879,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 5320,
+      "icon": "string",
+      "description": "string"
+    },
+    {
+      "id": 5747,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista com o Santander e garanta seu futuro financeiro. #SantanderInvestimentos"
+    }
+  ]
+}

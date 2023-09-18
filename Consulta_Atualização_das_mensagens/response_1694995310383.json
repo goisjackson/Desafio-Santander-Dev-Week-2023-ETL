@@ -1,0 +1,35 @@
+{
+  "id": 2605,
+  "name": "Antonio",
+  "account": {
+    "id": 2749,
+    "number": "0011011011-1",
+    "agency": "0001",
+    "balance": 0,
+    "limit": 1000
+  },
+  "card": {
+    "id": 2528,
+    "number": "**** 1111 1111 1111",
+    "limit": 1000
+  },
+  "features": [
+    {
+      "id": 878,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 5319,
+      "icon": "string",
+      "description": "string"
+    },
+    {
+      "id": 5746,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista com confiança no Santander e garanta seu futuro financeiro!"
+    }
+  ]
+}

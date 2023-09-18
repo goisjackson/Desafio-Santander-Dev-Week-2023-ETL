@@ -1,0 +1,35 @@
+{
+  "id": 2607,
+  "name": "Jackson",
+  "account": {
+    "id": 2751,
+    "number": "00003333-3",
+    "agency": "0003",
+    "balance": 0,
+    "limit": 3000
+  },
+  "card": {
+    "id": 2530,
+    "number": "***3 3333 3333 3333",
+    "limit": 3000
+  },
+  "features": [
+    {
+      "id": 880,
+      "icon": "string",
+      "description": "string"
+    }
+  ],
+  "news": [
+    {
+      "id": 5321,
+      "icon": "string",
+      "description": "string"
+    },
+    {
+      "id": 5748,
+      "icon": "https://digitalinnovationone.github.io/santander-dev-week-2023-api/icons/credit.svg",
+      "description": "Invista no seu futuro com o Santander."
+    }
+  ]
+}
